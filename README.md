@@ -1,6 +1,5 @@
 # 🕵️‍♂️ SocialPhish - Advanced Phishing Tool
 
-![SocialPhish Banner](https://via.placeholder.com/800x200?text=SocialPhish+Advanced+Phishing+Tool)
 
 ---
 
